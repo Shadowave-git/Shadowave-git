@@ -8,6 +8,10 @@ Email Me 👉 ✉️ **mishraamogh0807@gmail.com** For Collaboration/Project or 
 - ⚡ **Fun fact:** code coffe chillll
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mishraamogh0807@gmail.com) 
+<a href="https://www.codechef.com/users/pudina07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pudina07" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mishraamogh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mishraamogh" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shadowave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shadowave" height="30" width="40" /></a>
+</p>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,10 +21,6 @@ Email Me 👉 ✉️ **mishraamogh0807@gmail.com** For Collaboration/Project or 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shadowave-git&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shadowave-git&theme=radical&no-frame=false&no-bg=true&margin-w=4)
